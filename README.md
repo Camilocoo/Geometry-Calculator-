@@ -36,6 +36,6 @@ To be honest, I really didn't enjoy doing this exercise it was boring and it too
 
 But on the other hand, it improved my conditional statement skills and helped me understand more about input validation.
 
-I hope this program will help you get an A++ on your class or help you find the area of your coffee mug
+I hope this program will help you get an A++ on your class or it can help you find the area of your coffee mug
 
 
